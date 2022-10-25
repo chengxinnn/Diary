@@ -1,4 +1,13 @@
 {
     "C_Cpp.autocomplete": "Disabled",
-    "C_Cpp.intelliSenseEngine": "Disabled"
+    "C_Cpp.intelliSenseEngine": "Disabled",
+    "CodeCheck.RealTimeCodeMarsCheck.Enable": false,
+    "CodeCheck.AllRelatedRemoteBranch": "",
+    "CodeCheck.TaskIdsUpdateTime": "2022-10-25 21:32:06",
+    "CodeCheck.TaskIdsForRemoteUrl": "https://github.com/chengxinnn/Diary.git",
+    "CodeCheck.TaskIdsForRemoteBranch": "",
+    "CodeCheck.TaskIds": "",
+    "CodeCheck.SubRepoTaskIdsInfo": {},
+    "CodeCheck.RelatedRemoteRepo": "https://github.com/chengxinnn/Diary.git",
+    "CodeCheck.RelatedRemoteBranch": ""
 }
